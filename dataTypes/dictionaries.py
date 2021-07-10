@@ -1,4 +1,4 @@
-# Program to learn about Disctionaries built-in data type
+# Program to learn about Dictionaries built-in data type
 print('-> Creating dictionaries')
 d1 = dict()		# Will create an empty dictionary
 print(d1)
